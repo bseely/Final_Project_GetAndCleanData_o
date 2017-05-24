@@ -8,7 +8,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-# Final_Plan_GetAndCleanData_o
+# Final_Project_GetAndCleanData_o
 ### This is code to calculate summary statistics from data from the Human Activity Recognition database
 
 ## Overview
