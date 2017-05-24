@@ -23,6 +23,8 @@ knitr::opts_chunk$set(echo = TRUE)
 #### 2. Make sure you have installed these R packages from CRAN: tidyr, dplyr, data.table
 
 ## Running the Process
-
 #### Run the R script in the file named run_analysis.R
+
+## Understanding the Process
+#### Explanation and comments are included in the included file called CodeBook.md
 
